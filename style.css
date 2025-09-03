@@ -1,0 +1,23 @@
+button{
+    border-radius: 10px;
+    height: 30px;
+    width: 60px;
+}
+table{
+    border-radius: 10px;
+}
+#leftend{
+    border-radius: 0px 0px 10px 0px;
+}
+#rightend{
+    border-radius: 0px 0px 0px 10px;
+}
+#topend{
+        border-radius: 10px 10px 0px 0px;
+}
+th{
+    background-color: black;
+}
+td{
+    background-color: black;
+}
