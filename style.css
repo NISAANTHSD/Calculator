@@ -1,7 +1,8 @@
 button{
     border-radius: 10px;
-    height: 30px;
-    width: 60px;
+    height: 40px;
+    width: 80px;
+    font-size: 24px;
 }
 button:hover{
     background-color: chocolate;
@@ -28,4 +29,10 @@ th{
 }
 td{
     background-color: black;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
 }
